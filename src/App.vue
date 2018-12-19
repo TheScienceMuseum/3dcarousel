@@ -1,28 +1,49 @@
 <template>
   <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+    <Carousel />
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Carousel from "./components/Carousel.vue";
 
 export default {
-  name: 'app',
+  name: "app",
   components: {
-    HelloWorld
+    Carousel
   }
-}
+};
 </script>
 
 <style lang="scss">
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+$fonts: (
+  ("Thin", 100, normal),
+  ("ThinItalic", 100, italic),
+  ("Light", 300, normal),
+  ("LightItalic", 300, italic),
+  ("Regular", normal, normal),
+  ("RegularItalic", normal, italic),
+  ("Medium", 500, normal),
+  ("MediumItalic", 500, italic),
+  ("Bold", 700, normal),
+  ("BoldItalic", 700, italic),
+  ("Fat", 900, normal)
+);
+
+$font-path: "//smgco-images.s3.amazonaws.com/fonts"; // replace with proper CDN!!
+
+@each $f in $fonts {
+  @font-face {
+    font-family: "SMGSans";
+    // src: url('../fonts/copy-#{nth($f,1)}-web.woff') format('woff');
+    src: url("#{$font-path}/SMGSans-#{nth($f,1)}.woff") format("woff");
+    font-weight: #{nth($f, 2)};
+    font-style: #{nth($f, 3)};
+  }
+}
+body {
+  font-family: SMGSans, Arial, sans-serif;
+  background-color: #222;
+  color: white;
 }
 </style>
