@@ -1,8 +1,9 @@
 [
   {
-    "url": "http://learningresources.localhost/resources/3d-objects/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/3d-objects/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/3d-maths-enigma-machine-1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/3d-maths-enigma-machine-1600x900-300x169.jpg",
     "published": "2017-08-14T17:34:59+00:00",
     "name": "3D objects",
     "excerpt":
@@ -29,9 +30,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/animation-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/animation-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2018/01/bradford-stills-Animation_14-for-web-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2018/01/bradford-stills-Animation_14-for-web-300x169.jpg",
     "published": "2018-01-08T11:19:16+00:00",
     "name": "Animation gallery introduction",
     "excerpt":
@@ -58,9 +59,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/bottle-top-shapes/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/bottle-top-shapes/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/bottle-top-shapes-1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/bottle-top-shapes-1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Bottle top shapes",
     "excerpt":
@@ -76,9 +78,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/bubble-fun/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/bubble-fun/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/bubble_fun_1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/bubble_fun_1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Bubble Fun!",
     "excerpt": "Explore mixtures and materials by making brilliant bubbles! ",
@@ -96,9 +99,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/build-a-dome/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/build-a-dome/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/build-a-dome-1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/build-a-dome-1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Build a Dome",
     "excerpt": "Use straws and strong shapes to make a self supporting dome.",
@@ -120,9 +124,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/building-greenhouse-gases/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/building-greenhouse-gases/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/building-greenhouse-gases-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/building-greenhouse-gases-1000x563-300x169.jpg",
     "published": "2017-09-27T15:05:37+00:00",
     "name": "Building greenhouse gases",
     "excerpt":
@@ -142,9 +146,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/can-you-lift-something-heavier-than-yourself/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/can-you-lift-something-heavier-than-yourself/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/7-questions-weight-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/7-questions-weight-300x169.jpg",
     "published": "2017-10-17T18:36:15+00:00",
     "name":
       "Can you lift something heavier than yourself? \u2013 7 questions: film 7",
@@ -166,9 +170,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/carbon-cycle-caper/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/carbon-cycle-caper/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/climate-caper-youtube-video-2-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/climate-caper-youtube-video-2-800x600-300x225.jpg",
     "published": "2017-09-26T16:55:00+00:00",
     "name": "Carbon Cycle Caper",
     "excerpt":
@@ -184,9 +189,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/chatterbox-challenge/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/chatterbox-challenge/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/chatterbox-challenge-2000x1200-300x180.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/chatterbox-challenge-2000x1200-300x180.jpg",
     "published": "2017-09-19T15:49:56+00:00",
     "name": "Chatterbox Challenge",
     "excerpt":
@@ -199,9 +205,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/climate-report/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/climate-report/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/climate-report-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/climate-report-1000x563-300x169.jpg",
     "published": "2017-09-26T16:57:40+00:00",
     "name": "Climate report",
     "excerpt":
@@ -220,9 +227,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/discussion-formats/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/discussion-formats/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/discussion-formats-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/discussion-formats-1000x563-300x169.jpg",
     "published": "2017-09-19T17:09:25+00:00",
     "name": "Discussion formats",
     "excerpt":
@@ -239,9 +247,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/do-you-see-what-i-see/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/do-you-see-what-i-see/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/7-questions-reflections-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/7-questions-reflections-300x169.jpg",
     "published": "2017-10-17T17:43:49+00:00",
     "name": "Do you see what I see? \u2013 7 questions: film 3",
     "excerpt":
@@ -263,9 +271,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/do-you-want-to-know-a-secret/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/do-you-want-to-know-a-secret/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/dna-do-you-want-to-know-a-secret-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/dna-do-you-want-to-know-a-secret-1000x563-300x169.jpg",
     "published": "2017-09-19T16:08:21+00:00",
     "name": "Do you want to know a secret?",
     "excerpt":
@@ -281,9 +289,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/ear-gongs/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/ear-gongs/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/ear-gongs-1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/ear-gongs-1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Ear Gongs",
     "excerpt":
@@ -299,9 +308,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/eco-living/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/eco-living/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/eco-living-video-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/eco-living-video-800x600-300x225.jpg",
     "published": "2017-09-19T17:01:54+00:00",
     "name": "Eco living",
     "excerpt":
@@ -321,9 +331,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/electrifying-electricity-trail/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/electrifying-electricity-trail/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/solar-powered-car-mad-dog-II-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/solar-powered-car-mad-dog-II-800x600-300x225.jpg",
     "published": "2017-09-19T15:47:54+00:00",
     "name": "Electrifying Electricity trail",
     "excerpt":
@@ -340,9 +350,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/engineer-your-future-teachers-resource-pack/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/engineer-your-future-teachers-resource-pack/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/052-engineer-your-future-gallery-2000x1200-300x180.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/052-engineer-your-future-gallery-2000x1200-300x180.jpg",
     "published": "2017-09-19T16:14:14+00:00",
     "name": "Engineer Your Future: teachers&#8217; resource pack",
     "excerpt":
@@ -366,9 +376,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/exploring-space-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/exploring-space-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/EXPLORING-SPACE_2-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/EXPLORING-SPACE_2-300x169.jpg",
     "published": "2017-09-29T14:51:21+00:00",
     "name": "Exploring Space gallery introduction",
     "excerpt":
@@ -391,9 +401,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/fantastic-forces-trail/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/fantastic-forces-trail/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/forces-trail-jet-engine-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/forces-trail-jet-engine-1000x563-300x169.jpg",
     "published": "2017-09-19T15:57:38+00:00",
     "name": "Fantastic Forces trail",
     "excerpt":
@@ -407,9 +417,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/flight-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/flight-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/161-hi-res-not-retouched-Science-Museum-17jul2017-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/161-hi-res-not-retouched-Science-Museum-17jul2017-300x169.jpg",
     "published": "2017-09-29T14:38:08+00:00",
     "name": "Flight gallery introduction",
     "excerpt":
@@ -435,9 +445,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/getting-everyone-involved/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/getting-everyone-involved/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/getting-everyone-involved-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/getting-everyone-involved-800x600-300x225.jpg",
     "published": "2017-09-19T17:10:00+00:00",
     "name": "Getting everyone involved",
     "excerpt":
@@ -453,9 +463,10 @@
     "format": { "document": "Document", "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/google-expeditions/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/google-expeditions/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/google-expeditions-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/google-expeditions-1000x563-300x169.jpg",
     "published": "2017-09-29T15:54:16+00:00",
     "name": "Google Expeditions",
     "excerpt":
@@ -474,9 +485,10 @@
     "format": { "digital": "Digital" }
   },
   {
-    "url": "http://learningresources.localhost/resources/graphite-circuits/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/graphite-circuits/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/graphite_circuits_1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/graphite_circuits_1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Graphite Circuits",
     "excerpt":
@@ -496,9 +508,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-hall-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-hall-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2018/01/York_GH_stills_3_01-for-web-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2018/01/York_GH_stills_3_01-for-web-300x169.jpg",
     "published": "2018-01-16T11:54:24+00:00",
     "name": "Great Hall introduction",
     "excerpt":
@@ -529,9 +541,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-object-hunt-energy/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-object-hunt-energy/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/making-the-modern-world-gallery-stephensons-rocket-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/making-the-modern-world-gallery-stephensons-rocket-1000x563-300x169.jpg",
     "published": "2017-09-19T15:52:25+00:00",
     "name": "Great Object Hunt: Energy",
     "excerpt":
@@ -545,9 +557,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-object-hunt-explorer/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-object-hunt-explorer/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/great-ojbect-hunt-explorer-cover-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/great-ojbect-hunt-explorer-cover-1000x563-300x169.jpg",
     "published": "2017-09-19T15:53:33+00:00",
     "name": "Great Object Hunt: Explorer",
     "excerpt":
@@ -561,9 +573,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-object-hunt-forces/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-object-hunt-forces/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/forces-1000x563-1-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/forces-1000x563-1-300x169.jpg",
     "published": "2017-09-19T15:54:10+00:00",
     "name": "Great Object Hunt: Forces",
     "excerpt":
@@ -577,9 +589,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-object-hunt-health/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-object-hunt-health/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/great-object-hunt-health-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/great-object-hunt-health-1000x563-300x169.jpg",
     "published": "2017-09-19T15:54:40+00:00",
     "name": "Great Object Hunt: Health",
     "excerpt":
@@ -593,9 +605,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-object-hunt-materials/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-object-hunt-materials/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/Materials-House-Challenge-of-Materials-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/Materials-House-Challenge-of-Materials-1000x563-300x169.jpg",
     "published": "2017-09-01T09:54:46+00:00",
     "name": "Great Object Hunt: Materials",
     "excerpt":
@@ -609,9 +621,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-object-hunt-out-and-about/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-object-hunt-out-and-about/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/Object-hunt-out-and-about-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/Object-hunt-out-and-about-1000x563-300x169.jpg",
     "published": "2017-09-19T16:16:06+00:00",
     "name": "Great Object Hunt: Out and About",
     "excerpt":
@@ -628,9 +640,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/great-object-hunt-waves-and-communication/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/great-object-hunt-waves-and-communication/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/object-hunt-waves-communication-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/object-hunt-waves-communication-1000x563-300x169.jpg",
     "published": "2017-09-19T15:56:43+00:00",
     "name": "Great Object Hunt: Waves and Communication",
     "excerpt":
@@ -653,9 +665,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/healthy-living/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/healthy-living/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/healthy-living-video-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/healthy-living-video-800x600-300x225.jpg",
     "published": "2017-09-19T16:28:26+00:00",
     "name": "Healthy living",
     "excerpt":
@@ -675,9 +688,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/how-to-punk-your-science/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/how-to-punk-your-science/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/how-to-punk-your-science-video-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/how-to-punk-your-science-video-800x600-300x225.jpg",
     "published": "2017-09-19T16:26:36+00:00",
     "name": "How to punk your science",
     "excerpt":
@@ -691,9 +704,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/image-bank-tim-peakes-spacecraft/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/image-bank-tim-peakes-spacecraft/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/tim-peake-thumbnail-600x450-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/tim-peake-thumbnail-600x450-300x225.jpg",
     "published": "2017-08-15T11:36:30+00:00",
     "name": "Image bank: Tim Peake&#8217;s spacecraft",
     "excerpt":
@@ -710,9 +723,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/infoage-app/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/infoage-app/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/Infoage-app-thumbnail-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/Infoage-app-thumbnail-800x600-300x225.jpg",
     "published": "2017-08-14T17:07:46+00:00",
     "name": "InfoAge+ App",
     "excerpt":
@@ -735,9 +749,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/information-age-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/information-age-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/12/INFORMATION-AGE_2-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/12/INFORMATION-AGE_2-300x169.jpg",
     "published": "2017-12-01T16:20:26+00:00",
     "name": "Information Age gallery introduction",
     "excerpt":
@@ -770,9 +784,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/instant-ice-cream/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/instant-ice-cream/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/07/instant-ice-cream-1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/07/instant-ice-cream-1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Instant Ice Cream",
     "excerpt":
@@ -791,9 +806,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/kitchen-science/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/kitchen-science/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/ktichen-science-cornflour-slime-846x564-300x200.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/ktichen-science-cornflour-slime-846x564-300x200.jpg",
     "published": "2017-09-19T16:18:37+00:00",
     "name": "Kitchen science booklet",
     "excerpt":
@@ -810,9 +826,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/kodak-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/kodak-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2018/01/kodak_gallery01-300x153.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2018/01/kodak_gallery01-300x153.jpg",
     "published": "2018-01-08T11:38:29+00:00",
     "name": "Kodak gallery introduction",
     "excerpt":
@@ -840,9 +856,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/launchball-game/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/launchball-game/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/07/launchball-thumbnail-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/07/launchball-thumbnail-800x600-300x225.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Launchball",
     "excerpt":
@@ -865,9 +882,10 @@
     "format": { "game": "Game" }
   },
   {
-    "url": "http://learningresources.localhost/resources/magnetic-maze/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/magnetic-maze/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/magnetic_maze_1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/magnetic_maze_1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Magnetic Maze",
     "excerpt":
@@ -887,9 +905,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/make-it-fly/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/make-it-fly/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/make-it-fly-thumbnail-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/make-it-fly-thumbnail-800x600-300x225.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Make it fly",
     "excerpt":
@@ -909,9 +928,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/making-the-modern-world-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/making-the-modern-world-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/MAKING-THE-MODERN-WORLD_1-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/MAKING-THE-MODERN-WORLD_1-300x169.jpg",
     "published": "2017-09-29T13:22:59+00:00",
     "name": "Making the Modern World gallery introduction",
     "excerpt":
@@ -939,9 +958,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/mathematics-the-winton-gallery-guide/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/mathematics-the-winton-gallery-guide/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/mathematics-winton-gallery-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/mathematics-winton-gallery-1000x563-300x169.jpg",
     "published": "2017-09-21T18:35:00+00:00",
     "name": "Mathematics: The Winton Gallery \u2013 guide",
     "excerpt":
@@ -955,9 +974,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/mathematics-winton-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/mathematics-winton-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/MATHEMATICS_2-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/MATHEMATICS_2-300x169.jpg",
     "published": "2017-09-28T11:43:09+00:00",
     "name": "Mathematics: The Winton Gallery introduction",
     "excerpt":
@@ -983,9 +1002,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/medical-trials/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/medical-trials/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/medical-trials-video-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/medical-trials-video-800x600-300x225.jpg",
     "published": "2017-09-19T17:02:33+00:00",
     "name": "Medical trials",
     "excerpt":
@@ -1004,9 +1024,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/mystery-objects/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/mystery-objects/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/mystery-objects-546x341-300x187.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/mystery-objects-546x341-300x187.jpg",
     "published": "2017-09-19T17:08:25+00:00",
     "name": "Mystery objects",
     "excerpt":
@@ -1024,9 +1045,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/punk-science-nanotechnology-song/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/punk-science-nanotechnology-song/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/nanotechnology-video-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/nanotechnology-video-800x600-300x225.jpg",
     "published": "2017-08-14T14:51:38+00:00",
     "name": "Nanotechnology Song",
     "excerpt":
@@ -1045,9 +1066,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/no-pressure/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/no-pressure/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/no_pressure_1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/no_pressure_1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "No Pressure",
     "excerpt":
@@ -1067,9 +1089,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/periscope/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/periscope/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/periscopex1600x900-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/periscopex1600x900-300x169.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Periscope",
     "excerpt":
@@ -1085,9 +1108,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/pinball-machine/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/pinball-machine/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/pinball-machine-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/pinball-machine-800x600-300x225.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Pinball machine",
     "excerpt":
@@ -1103,7 +1127,8 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/polarising-pics/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/polarising-pics/",
     "image": false,
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Polarising Pics",
@@ -1124,9 +1149,10 @@
     "format": { "digital": "Digital", "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/powerful-questions/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/powerful-questions/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/powerful-questions-546x341-300x187.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/powerful-questions-546x341-300x187.jpg",
     "published": "2017-09-19T17:10:38+00:00",
     "name": "Powerful questions",
     "excerpt":
@@ -1142,9 +1168,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/pregnant-man/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/pregnant-man/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/preganant-man-thumbnail-300x167.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/preganant-man-thumbnail-300x167.jpg",
     "published": "2017-09-19T16:33:30+00:00",
     "name": "Pregnant man",
     "excerpt":
@@ -1166,7 +1193,8 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/rocket-mice/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/rocket-mice/",
     "image": false,
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Rocket Mice",
@@ -1187,9 +1215,10 @@
     "format": { "document": "Document", "game": "Game" }
   },
   {
-    "url": "http://learningresources.localhost/resources/rocket-mice-2/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/rocket-mice-2/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/rocket-mice-1000x450-300x135.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/rocket-mice-1000x450-300x135.jpg",
     "published": "2017-09-19T16:20:22+00:00",
     "name": "Rocket mice",
     "excerpt":
@@ -1205,9 +1234,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/rugged-rovers/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/rugged-rovers/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/rugged-rovers-game-2-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/rugged-rovers-game-2-800x600-300x225.jpg",
     "published": "2017-08-14T16:26:15+00:00",
     "name": "Rugged Rovers",
     "excerpt":
@@ -1232,9 +1262,10 @@
     "format": { "game": "Game" }
   },
   {
-    "url": "http://learningresources.localhost/resources/selective-breeding/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/selective-breeding/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/selective-breeding-video-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/selective-breeding-video-800x600-300x225.jpg",
     "published": "2017-09-19T17:03:09+00:00",
     "name": "Selective breeding",
     "excerpt":
@@ -1253,9 +1284,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/spaghetti-structures/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/spaghetti-structures/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/07/spaghetti-structures-thumbnail-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/07/spaghetti-structures-thumbnail-800x600-300x225.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Spaghetti Structures",
     "excerpt":
@@ -1272,9 +1304,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/spectacular-space-trail/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/spectacular-space-trail/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/beagle-2-spectacular-space-trail-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/beagle-2-spectacular-space-trail-1000x563-300x169.jpg",
     "published": "2017-09-19T15:58:10+00:00",
     "name": "Spectacular Space trail",
     "excerpt":
@@ -1288,9 +1320,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/station-hall-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/station-hall-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2018/01/York_station_hall_stills_2_01-for-web-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2018/01/York_station_hall_stills_2_01-for-web-300x169.jpg",
     "published": "2018-01-16T10:55:49+00:00",
     "name": "Station Hall introduction",
     "excerpt":
@@ -1319,9 +1351,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/talking-points-cards/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/talking-points-cards/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/glass-eyes-muller-liverpool-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/glass-eyes-muller-liverpool-1000x563-300x169.jpg",
     "published": "2017-09-19T16:04:55+00:00",
     "name": "Talking Points cards",
     "excerpt":
@@ -1343,9 +1376,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/the-ends-of-the-universe/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/the-ends-of-the-universe/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/ends-of-universe-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/ends-of-universe-800x600-300x225.jpg",
     "published": "2017-09-19T16:29:11+00:00",
     "name": "The ends of the universe",
     "excerpt":
@@ -1365,9 +1398,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/the-science-museum-for-primary-schools/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/the-science-museum-for-primary-schools/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/primary-school-visit-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/primary-school-visit-1000x563-300x169.jpg",
     "published": "2017-09-26T15:39:10+00:00",
     "name": "The Science Museum for primary schools",
     "excerpt":
@@ -1381,9 +1414,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/science-museum-introduction-schools/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/science-museum-introduction-schools/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/12/WONDERLAB_1-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/12/WONDERLAB_1-300x169.jpg",
     "published": "2017-12-21T10:53:12+00:00",
     "name": "The Science Museum: an introduction for schools",
     "excerpt":
@@ -1420,9 +1453,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/science-museums-discussion-model/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/science-museums-discussion-model/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/scm-discussion-model-546x341-300x187.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/scm-discussion-model-546x341-300x187.jpg",
     "published": "2017-09-19T17:08:54+00:00",
     "name": "The Science Museum&#8217;s discussion model",
     "excerpt":
@@ -1439,9 +1472,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/secret-life-of-the-home-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/secret-life-of-the-home-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/THE-SECRET-LIFE-OF-THE-HOME_2-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/THE-SECRET-LIFE-OF-THE-HOME_2-300x169.jpg",
     "published": "2017-09-29T13:14:59+00:00",
     "name": "The Secret Life of the Home gallery introduction",
     "excerpt":
@@ -1466,9 +1499,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/transmission/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/transmission/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/transmission-game-2-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/transmission-game-2-1000x563-300x169.jpg",
     "published": "2017-10-02T15:23:21+00:00",
     "name": "Transmission App",
     "excerpt":
@@ -1484,9 +1518,10 @@
     "format": { "game": "Game" }
   },
   {
-    "url": "http://learningresources.localhost/resources/try-this/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/try-this/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/Try-This-activity-book-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/Try-This-activity-book-800x600-300x225.jpg",
     "published": "2017-09-26T12:04:39+00:00",
     "name": "Try This&#8230;",
     "excerpt":
@@ -1502,9 +1537,10 @@
     "format": { "document": "Document" }
   },
   {
-    "url": "http://learningresources.localhost/resources/tune-booster/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/tune-booster/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/tune-booster-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/tune-booster-800x600-300x225.jpg",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Tune Booster",
     "excerpt":
@@ -1521,9 +1557,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/what-does-sound-look-like/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/what-does-sound-look-like/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/7-questions-sound-waves-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/7-questions-sound-waves-300x169.jpg",
     "published": "2017-10-17T17:24:25+00:00",
     "name": "What does sound look like? \u2013 7 questions: film 2",
     "excerpt":
@@ -1544,9 +1580,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/what-would-life-be-like-without-electricity/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/what-would-life-be-like-without-electricity/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/7-questions-electricity-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/7-questions-electricity-300x169.jpg",
     "published": "2017-10-17T17:14:27+00:00",
     "name":
       "What would life be like without electricity? \u2013 7 questions: film 1",
@@ -1567,9 +1603,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/whats-in-the-clouds/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/whats-in-the-clouds/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/7-questions-clouds-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/7-questions-clouds-300x169.jpg",
     "published": "2017-10-17T18:02:33+00:00",
     "name": "What\u2019s in the clouds? \u2013 7 questions: film 4",
     "excerpt":
@@ -1591,9 +1628,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/where-can-you-find-patterns/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/where-can-you-find-patterns/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/patterns-video-900x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/patterns-video-900x600-300x225.jpg",
     "published": "2017-10-17T18:31:21+00:00",
     "name": "Where can you find patterns? \u2013 7 questions: film 6",
     "excerpt":
@@ -1617,9 +1654,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/where-does-the-sun-go-at-night/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/where-does-the-sun-go-at-night/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/10/7-questions-sun-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/10/7-questions-sun-300x169.jpg",
     "published": "2017-10-17T18:25:24+00:00",
     "name": "Where does the sun go at night? \u2013 7 questions: film 5",
     "excerpt":
@@ -1642,9 +1679,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/who-am-i-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/who-am-i-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/who-am-i-carousel-2-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/who-am-i-carousel-2-300x169.jpg",
     "published": "2017-09-28T18:04:09+00:00",
     "name": "Who am I? gallery introduction",
     "excerpt":
@@ -1671,9 +1708,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/who-what-why-how-film/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/who-what-why-how-film/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/08/who-what-why-how-film-thumbnail-800x600-300x225.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/08/who-what-why-how-film-thumbnail-800x600-300x225.jpg",
     "published": "2017-08-14T16:06:02+00:00",
     "name": "Who? What? Why? How?",
     "excerpt":
@@ -1687,9 +1724,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/wonderlab-national-science-media-museum-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/wonderlab-national-science-media-museum-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2018/01/bradford-wonderlab_01-300x149.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2018/01/bradford-wonderlab_01-300x149.jpg",
     "published": "2018-01-31T10:43:06+00:00",
     "name": "Wonderlab (National Science and Media Museum) introduction",
     "excerpt":
@@ -1710,9 +1747,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/wonderlab-science-maths-behind-exhibits/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/wonderlab-science-maths-behind-exhibits/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/wonderlab-girl-2000x1000-300x150.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/wonderlab-girl-2000x1000-300x150.jpg",
     "published": "2017-09-26T11:53:44+00:00",
     "name": "Wonderlab: the science and maths behind the exhibits",
     "excerpt":
@@ -1733,9 +1770,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/wonderlab-the-statoil-gallery-guide/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/wonderlab-the-statoil-gallery-guide/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/wonderlab-gallery-1000x563-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/wonderlab-gallery-1000x563-300x169.jpg",
     "published": "2017-09-21T17:54:23+00:00",
     "name": "Wonderlab: The Statoil Gallery \u2013 guide",
     "excerpt":
@@ -1757,9 +1794,9 @@
   },
   {
     "url":
-      "http://learningresources.localhost/resources/wonderlab-statoil-gallery-introduction/",
+      "https://learning-resources.sciencemuseum.org.uk/resources/wonderlab-statoil-gallery-introduction/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/09/WONDERLAB_6-300x169.jpg",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/09/WONDERLAB_6-300x169.jpg",
     "published": "2017-09-28T17:36:30+00:00",
     "name": "Wonderlab: The Statoil Gallery (Science Museum) introduction",
     "excerpt":
@@ -1780,9 +1817,10 @@
     "format": { "video": "Video" }
   },
   {
-    "url": "http://learningresources.localhost/resources/wreck-your-tech/",
+    "url":
+      "https://learning-resources.sciencemuseum.org.uk/resources/wreck-your-tech/",
     "image":
-      "http://learningresources.localhost/wp-content/uploads/2017/07/wreck-your-tech-1000-300x135.png",
+      "https://learning-resources.sciencemuseum.org.uk/wp-content/uploads/2017/07/wreck-your-tech-1000-300x135.png",
     "published": "2017-07-12T17:43:22+00:00",
     "name": "Wreck your Tech",
     "excerpt":

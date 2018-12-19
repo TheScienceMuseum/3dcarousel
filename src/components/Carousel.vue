@@ -1,6 +1,6 @@
 <template>
   <div class="root">
-    <div class="scene" :style="{perspective: config.perspective+'px' }">
+    <div class="scene" :style="{perspective: config.perspective+'px' }" v-pan="onPan">
       <div class="carousel" v-if="posts && posts.length" :style="carouselStyle">
          <Cell :post="post" :index="index" v-for="(post, index) of postLimit" :style="cellStyle(index)" />
       </div>      
@@ -33,6 +33,7 @@
 <script>
 import axios from "axios";
 import Cell from "./Cell.vue";
+import Hammer from "hammerjs";
 
 export default {
   name: "Carousel",
@@ -40,6 +41,17 @@ export default {
     msg: String
   },
   components: { Cell },
+  directives: {
+    pan: {
+      bind: function(el, binding) {
+        if (typeof binding.value === "function") {
+          const mc = new Hammer(el);
+          mc.get("pan").set({ direction: Hammer.DIRECTION_ALL });
+          mc.on("pan panstart", binding.value);
+        }
+      }
+    }
+  },
   data() {
     return {
       baseUrl: process.env.BASE_URL,
@@ -51,7 +63,8 @@ export default {
         rotateY: 0,
         perspective: 1000,
         cellSize: 210 + 20
-      }
+      },
+      panStartRotateY: 0
     };
   },
   computed: {
@@ -100,6 +113,25 @@ export default {
           ) +
         0.5
       );
+    },
+    onPan(event) {
+      console.log(event.type);
+      if (event.type == "panstart") {
+        console.log(event.type);
+        this.panStartRotateY = this.config.rotateY;
+      }
+      const deltaX = event.deltaX; // moved distance on x-axis
+      const deltaY = event.deltaY; // moved distance on y-axis
+      const isFinal = event.isFinal; // pan released
+      const direction = event.direction; // 0 = none, 2 = left, 4 = right, 8 = up, 16 = down,
+      // const PreviousrotateY = this.config.rotateY;
+      this.config.rotateY = this.panStartRotateY + event.deltaX;
+
+      if (event.isFinal) {
+        let snapIncrement = 360 / this.config.itemCount;
+        this.config.rotateY =
+          snapIncrement * Math.round(this.config.rotateY / snapIncrement);
+      }
     }
   },
   created() {
