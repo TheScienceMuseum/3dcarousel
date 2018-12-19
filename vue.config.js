@@ -1,3 +1,3 @@
 module.exports = {
-  baseUrl: "/my-first-project/"
+  baseUrl: process.env.NODE_ENV === "production" ? "/3dcarousel/" : "/"
 };
